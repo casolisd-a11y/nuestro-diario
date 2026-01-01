@@ -10,13 +10,13 @@ const memories = [
         date: "14 de Febrero, 2023",
         title: "Nuestra Primera Cita",
         description: "Recuerdo que estaba muy nervioso, pero cuando sonreíste todo se iluminó. Fuimos por ese café helado que tanto te gusta.",
-        image: "img/foto1.jpg" // Asegúrate de que el nombre coincida con tu archivo
+        image: "img/ima1.jpg" // Asegúrate de que el nombre coincida con tu archivo
     },
     {
         date: "25 de Diciembre, 2023",
         title: "Primera Navidad Juntos",
         description: "Ver películas navideñas y cocinar esa cena (aunque se nos quemó un poco) fue lo mejor del año.",
-        image: "img/navidad.jpg"
+        image: "img/ima2.jpeg"
     },
     // Copia desde aquí para agregar otro...
     {
