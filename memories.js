@@ -23,7 +23,7 @@ const memories = [
         date: "AÑO NUEVO 2024",
         title: "Viaje a la Playa",
         description: "El atardecer fue increíble, pero verte feliz fue aún mejor.",
-        image: "https://images.unsplash.com/photo-1516131206008-dd041a9764fd?w=800" // Puedes usar links de internet también
+        image: "img/ima2.jpeg" // Puedes usar links de internet también
     }
     // ... hasta aquí
 ];
