@@ -18,12 +18,42 @@ const memories = [
         description: "Ver películas navideñas y cocinar esa cena (aunque se nos quemó un poco) fue lo mejor del año.",
         image: "img/ima2.jpeg"
     },
+      {
+        date: "25 de Diciembre, 2023",
+        title: "Primera Navidad Juntos",
+        description: "Ver películas navideñas y cocinar esa cena (aunque se nos quemó un poco) fue lo mejor del año.",
+        image: "img/ima3.jpeg"
+    },
+      {
+        date: "25 de Diciembre, 2023",
+        title: "Primera Navidad Juntos",
+        description: "Ver películas navideñas y cocinar esa cena (aunque se nos quemó un poco) fue lo mejor del año.",
+        image: "img/ima4.jpeg"
+    },
+      {
+        date: "25 de Diciembre, 2023",
+        title: "Primera Navidad Juntos",
+        description: "Ver películas navideñas y cocinar esa cena (aunque se nos quemó un poco) fue lo mejor del año.",
+        image: "img/ima5.jpeg"
+    },
+      {
+        date: "25 de Diciembre, 2023",
+        title: "Primera Navidad Juntos",
+        description: "Ver películas navideñas y cocinar esa cena (aunque se nos quemó un poco) fue lo mejor del año.",
+        image: "img/ima6.jpeg"
+    },
+      {
+        date: "25 de Diciembre, 2023",
+        title: "Primera Navidad Juntos",
+        description: "Ver películas navideñas y cocinar esa cena (aunque se nos quemó un poco) fue lo mejor del año.",
+        image: "img/ima7.jpeg"
+    },
     // Copia desde aquí para agregar otro...
     {
         date: "AÑO NUEVO 2024",
         title: "Viaje a la Playa",
         description: "El atardecer fue increíble, pero verte feliz fue aún mejor.",
-        image: "img/ima2.jpeg" // Puedes usar links de internet también
+        image: "img/ima8.jpeg" // Puedes usar links de internet también
     }
     // ... hasta aquí
 ];
