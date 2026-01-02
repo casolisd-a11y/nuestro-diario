@@ -21,7 +21,7 @@ const memories = [
       {
         date: "13 de Setiembre, 2025",
         title: "Noche de teatro",
-        description: "Hoy vinimos hasta Jesús María para presenciar una obra de teatro. Antes pasamos por un matcha y un cold brew de arándano. Te quiero mucho 🤗, espero te esté gustando estos planes de teatro tanto como a mí 🎭",
+        description: "Hoy vinimos hasta Jesús María para presenciar una obra de teatro. Antes pasamos por un matcha y un cold brew de arándano. Te quiero mucho 🤗, espero te estén gustando estos planes de teatro tanto como a mí 🎭",
         image: "img/ima3.jpeg"
     },
       {
